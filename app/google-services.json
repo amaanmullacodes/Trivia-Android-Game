@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "703420629752",
+    "project_id": "utatrivia",
+    "storage_bucket": "utatrivia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703420629752:android:6697e58713065d4f64710d",
+        "android_client_info": {
+          "package_name": "com.lunaticaliens.UTATrivia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703420629752-e2kf9fmunhpljt585ak6ue9bdasosr5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr_UNWe8kZiMOvnxzwmwABQ0SuU1H68qU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703420629752-e2kf9fmunhpljt585ak6ue9bdasosr5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

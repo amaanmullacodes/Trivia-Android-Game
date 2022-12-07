@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">UTATrivia</string>
+
+    <string name="get_started">Get Started</string>
+    <string name="play_solve_enjoy">Play. Solve. Enjoy</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">Don’t have an account yet? Create Here!</string>
+    <string name="password">Password</string>
+    <string name="email_address">Email Address</string>
+    <string name="hello">Welcome</string>
+    <string name="login_first_to_continue">Login first to continue</string>
+    <string name="login_to_begin">Login To Begin</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="register">Register</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_an_account_login_here">Already have an account? Login Here</string>
+    <string name="register_now_it_s_free">Register now, It\'s free!</string>
+    <string name="profile">Profile</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="location">Location</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="desc">Description</string>
+    <string name="close">Close</string>
+    <string name="logout">Logout</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="play">Play</string>
+    <string name="about">About</string>
+    <string name="about_text">lorem epsum......</string>
+    <string name="start">Start</string>
+    <string name="made_by">Made by: You Name Here</string>
+</resources>
